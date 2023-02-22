@@ -1,11 +1,12 @@
  {
     "author" : "Logyk-Stick", 
     "name" : "darkStoneChatFixed", 
-    "keyWords" : "",
+    "keyWords" : "darkStone",
     "version" : "1.0.0",
-    "dofusVersion" : "2.66", 
+    "dofusVersion" : "2.66",
     "description" : "Modifie les couleurs des éléments dans le chat. Violet pour neutre et blanc rosé pour multi. Il suffira ensuite de mettre le canal information en blanc afin de voir clairement les éléments des sorts utilisés", 
     "url" : "https://github.com/timmerl/darkStoneChatFixed/raw/main/darkStoneChatFixed.zip",
+    "previewUrl" : "https://github.com/timmerl/darkStoneChatFixed/raw/main/darkStoneChatFixed.png",
     "creationDate" : "22/02/2023", 
     "modificationDate" : "22/02/2023"
     } 
